@@ -5,50 +5,50 @@
     首先還是得簡單介紹幾個戶外品牌，要不新驢朋友們可就真的猶如看天書了。看中國編輯希望分享本文能讓大家買到性價比最好的衣服。 
 
 美洲戶外大牌： 
-ARC'TERYX（始祖鳥）熟稱鳥 
-Mountain Hardwear（哈德威爾、山浩）熟稱螺絲、MHW 
-The North Face（北面）熟稱TNF 
-Marmot（土撥鼠）熟稱老鼠 
-Patagonia（巴塔哥尼亞）熟稱巴塔 
-Cloudveil  美國品牌，與北面、老鼠、巴塔同一檔次 
+ 1. ARC'TERYX（始祖鳥）熟稱鳥 
+ 1. Mountain Hardwear（哈德威爾、山浩）熟稱螺絲、MHW 
+ 1. The North Face（北面）熟稱TNF 
+ 1. Marmot（土撥鼠）熟稱老鼠 
+ 1. Patagonia（巴塔哥尼亞）熟稱巴塔 
+ 1. Cloudveil  美國品牌，與北面、老鼠、巴塔同一檔次 
 
 歐洲戶外大牌： 
-Norrona 熟稱老人頭，與鳥一樣同為最頂級戶外品牌； 
-Mammut（猛獁象）熟稱象, 與螺絲一樣都是技術類很強悍的品牌； 
-Haglofs 火柴棍，與TNF一樣都是產品線超級豐富，涉及面最廣，市場佔有率最大的品牌； 
-Rab頂級羽絨品牌，與老鼠一樣同為最頂級的戶外羽絨品牌。 
+ 1. Norrona 熟稱老人頭，與鳥一樣同為最頂級戶外品牌； 
+ 1. Mammut（猛獁象）熟稱象, 與螺絲一樣都是技術類很強悍的品牌； 
+ 1. Haglofs 火柴棍，與TNF一樣都是產品線超級豐富，涉及面最廣，市場佔有率最大的品牌； 
+ 1. Rab頂級羽絨品牌，與老鼠一樣同為最頂級的戶外羽絨品牌。 
 
 
 戶外服裝推薦的是三層穿法：排汗層+保暖層+防風雨層 
-排汗層：厚、中等、薄、神衣 
-保暖層：抓絨、軟殼、棉服、羽絨 
-防風雨層：三層壓膠、兩層半壓膠、兩層壓膠的衝鋒衣，皮膚風衣 
+ * 排汗層：厚、中等、薄、神衣 
+ * 保暖層：抓絨、軟殼、棉服、羽絨 
+ * 防風雨層：三層壓膠、兩層半壓膠、兩層壓膠的衝鋒衣，皮膚風衣 
 
 ##排汗層：厚、中等、薄、神衣 
 厚：優點是保暖、排汗、透氣、耐用、防臭 
-Patagonia Capilene 4 
-Arc'teryx Phase SV 
-Kenyon Polartec Power Stretch 
+ * Patagonia Capilene 4 
+ * Arc'teryx Phase SV 
+ * Kenyon Polartec Power Stretch 
 
 小結： 
-    1、三款很經典的冬季排汗內衣，巴塔、鳥兩款排汗性要好一點，Kenyon的保暖性好一點；總體來說這種級別的內衣都是保暖性能強於排汗性能（穿這種衣服的天氣首先肯定得保暖，但是如果只保暖不排汗的話，那在戶外很容易失溫，那是非常危險的事情）； 
-    2、SmartWool的美麗諾內衣雖然很舒服，但是羊毛的排汗性畢竟不如化工產品啊，所以我沒寫有SmartWool的產品；Hot Chillys的內衣也非常的強大，但是我對它家的東西不熟悉，所以也沒做列舉； 
-    3、我個人選擇Kenyon Polartec Power Stretch 舒適性、保暖性、價格都完勝C4（排汗性至少我個人感覺上沒有明顯差距） 
+ 1. 三款很經典的冬季排汗內衣，巴塔、鳥兩款排汗性要好一點，Kenyon的保暖性好一點；總體來說這種級別的內衣都是保暖性能強於排汗性能（穿這種衣服的天氣首先肯定得保暖，但是如果只保暖不排汗的話，那在戶外很容易失溫，那是非常危險的事情）； 
+ 1. SmartWool的美麗諾內衣雖然很舒服，但是羊毛的排汗性畢竟不如化工產品啊，所以我沒寫有SmartWool的產品；Hot Chillys的內衣也非常的強大，但是我對它家的東西不熟悉，所以也沒做列舉； 
+ 1. 我個人選擇Kenyon Polartec Power Stretch 舒適性、保暖性、價格都完勝C4（排汗性至少我個人感覺上沒有明顯差距） 
 
 中等：優點是排汗、保暖、透氣、耐用、防臭 
-Patagonia Capilene 3 
-Nike Pro 
-Arc'teryx Phase AR 
+ * Patagonia Capilene 3 
+ * Nike Pro 
+ * Arc'teryx Phase AR 
 
 小結： 
     1、這種厚度的排汗內衣具有出色的排汗能力和一定的保暖性能，適應季節非常廣泛，也是各驢友第一件需要購買的排汗內衣；總體來說這種級別的內衣排汗性能強於保暖性能，最適合天涼、天冷季節的大運動量戶外活動。Nike的身材要求太高了，鳥的價格偏高了一點，所以我推薦的是Patagonia Capilene 3； 
     2、Nike Pro在運動時對肌肉的保護是最好的（當然這是它的專業，戶外品牌比不過它）；鳥的那件經過很多次水洗一點也不變形，非常的強悍；巴塔C3最大缺點就是起毛球，所以不到戶外的話，平時還是別穿吧。 
 
 薄：這個類型的選擇性實在是太豐富了，各大品牌差距都不大 
-Patagonia Capilene 1 
-Arc'teryx Phase SL 
-Nike 
-Ex Officio 
+ * Patagonia Capilene 1 
+ * Arc'teryx Phase SL 
+ * Nike 
+ * Ex Officio 
 
 小結：穿這種輕薄內衣的季節通常都是夏季，天氣炎熱、戶外活動頻繁，我需要的是一款上身舒服、排汗、速幹都要超好、耐磨性還得強，價格必須便宜（畢竟夏季衣服的損耗特別大）的衣服；我推薦的是Nike、Ex Officio （Patagonia C1夏天上身很不舒服，鳥的價格虛高了） 
               1、Nike的性價比超高，300多的原價，打完折100左右就可以買到，而且它的排汗速幹技術那真的是槓槓的。 
@@ -145,43 +145,43 @@ Arc'teryx atom LT pullover
 排骨羽絨、厚羽絨、羽絨背心 
     
 排骨羽絨：外形緊湊，適合內層穿著；比較輕薄，保暖性稍差，嚴寒環境下不能單獨作為外層穿著。 
-Marmot Zeus 
-Rab Microlight Alpine 
-Mountain Hardwear Nitrous 
-Patagonia Down Sweater 
-Outdoor Research Transcendent 
-Cloudveil Endless 
-The North Face巔峰系列800蓬 
+ * Marmot Zeus 
+ * Rab Microlight Alpine 
+ * Mountain Hardwear Nitrous 
+ * Patagonia Down Sweater 
+ * Outdoor Research Transcendent 
+ * Cloudveil Endless 
+ * The North Face巔峰系列800蓬 
 
 小結：注重保暖那肯定是Marmot Zeus （它的充絨量要比其他品牌多30%左右）；注重亮騷那肯定是The North Face 800 （很多影星、歌星、球星都是選擇這一款） 
 
 厚羽絨：Marmot、Rab 我只信任這兩個專業的羽絨品牌，而且價格可以接受 
 
 羽絨背心： 
-Mountain Hardwear Sub Zero Down Vest 
-The North Face Nuptse 2 Vest 
-Patagonia Down Sweater Vest 
-Rab Microlight vest 
-Marmot Zeus Down Vest 
-Marmot Guides Down Vest 
+ * Mountain Hardwear Sub Zero Down Vest 
+ * The North Face Nuptse 2 Vest 
+ * Patagonia Down Sweater Vest 
+ * Rab Microlight vest 
+ * Marmot Zeus Down Vest 
+ * Marmot Guides Down Vest 
 
 小結：羽絨背心一般是在營地穿著和城市休閒穿著，更主要的功能是亮騷呵呵！所以就選擇外形亮騷，或者是自己鍾情的品牌吧。我選擇的是Mountain Hardwear Sub Zero 超騷的外形，超級耐磨的面料，城市戶外兼顧。 
 
 ##防風雨層：三層壓膠、兩層半壓膠、兩層壓膠、皮膚風衣 
 
 高檔：熟稱三層壓膠；只買用了Gore-Tex Pro Shell 面料的衝鋒衣（Gore-Tex有很多種布料，你要買高檔的只需要記住Pro Shell），用了這個面料意味著你可以穿著它去任何你能去得了的雪山。 
-    1、各個品牌的高檔衝鋒衣都有忠實的擁護者，我就不打口水仗了；專業的衝鋒衣就考慮這七個品牌吧：Arc'teryx、Norrona、Mammut 、Mountain Hardwear、Haglofs 、The North Face 、Marmot。 
-    2、我不上7000米以上的雪山，所以價格超過1500（折後價）的衝鋒衣我肯定是不買的，用著浪費，還心疼。 
-    3、如果你有錢完全可以買來當普通衝鋒衣穿，畢竟它的防風、防雨、防雪、防磨、透氣性是最出色的，足夠應付所有戶外惡劣天氣。 
+ 1. 各個品牌的高檔衝鋒衣都有忠實的擁護者，我就不打口水仗了；專業的衝鋒衣就考慮這七個品牌吧：Arc'teryx、Norrona、Mammut 、Mountain Hardwear、Haglofs 、The North Face 、Marmot。 
+ 1. 我不上7000米以上的雪山，所以價格超過1500（折後價）的衝鋒衣我肯定是不買的，用著浪費，還心疼。 
+ 1. 如果你有錢完全可以買來當普通衝鋒衣穿，畢竟它的防風、防雨、防雪、防磨、透氣性是最出色的，足夠應付所有戶外惡劣天氣。 
 
 中檔：熟稱兩層半壓膠；是我們絕大多數驢友的主力防風雨外套，都能防暴雨，應付低海拔的戶外活動完全沒問題；雖然性能比不過Gore-Tex Pro Shell ，但是價格優勢擺在那，大家都能接受，500—1000（折後價）是最划算的購買區間了。 
-Marmot Aegis Jacket 
-Marmot Mica Jacket 
-Patagonia Torrentshell Jacket 
-Mountain Hardwear Cohesion Jacket 
-Mountain Hardwear Epic Jacket 
-Cloudveil Zorro Jacket 
-The North Face AEQT 
+ * Marmot Aegis Jacket 
+ * Marmot Mica Jacket 
+ * Patagonia Torrentshell Jacket 
+ * Mountain Hardwear Cohesion Jacket 
+ * Mountain Hardwear Epic Jacket 
+ * Cloudveil Zorro Jacket 
+ * The North Face AEQT 
 
 小結：這個級別的衝鋒衣最大的不足就是透氣性差，很多品牌都吹噓自己的透氣性，其實市面上這個級別的主流衝鋒衣我幾乎都穿過，都體驗過了，共同點就一個字：“悶” ；徒步的時候汗排不出去，雖然都有腋下排汗拉鍊，但是作用不大（也許是我汗太多吧），只有一款衝鋒衣能讓我對排汗性比較滿意的——Marmot Aegis Jacket ，不愧是大獎得主，所以我推薦！ 
 
@@ -191,12 +191,12 @@ Marmot Precip Jacket 屬於兩層半壓膠，但是價格卻下探到了這個�
 小結：Marmot Precip Jacket超強的性價比，這個價位的級別中毫無對手 
 
 風雨衣：熟稱皮膚風衣；非常輕薄，收納性好，適用於暖和天氣時的防風、防潑水 
-Marmot Trail Wind 
-Cloudveil Stash Creek Hooded Jacket 
-Patagonia Houdini Full-Zip 
-Norrona Off Track Microfibre 
-Mountain Hardwear Geist 
-Mammut Microlayer Jacket 
-The North Face Hydrogen Jacket 
+ * Marmot Trail Wind 
+ * Cloudveil Stash Creek Hooded Jacket 
+ * Patagonia Houdini Full-Zip 
+ * Norrona Off Track Microfibre 
+ * Mountain Hardwear Geist 
+ * Mammut Microlayer Jacket 
+ * The North Face Hydrogen Jacket 
 
 小結：Norrona 、Patagonia 這兩款風雨衣的皮膚觸感非常的棒，不愧被稱為皮膚風衣，但是皮膚風衣主要還是放在揹包之中，突遇大風、小雨才應急而用，所以價格才是最關鍵的，我推薦Marmot Trail Wind、 Cloudveil Stash Creek Hooded Jacket。 
